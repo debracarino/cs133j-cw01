@@ -4,3 +4,13 @@
     margin:0;
     padding:0;
 }
+
+html {
+    background-color:cornflowerblue;
+}
+
+body {
+    width: 76%;
+    padding: 2em;
+    margin: 2em auto;
+}
